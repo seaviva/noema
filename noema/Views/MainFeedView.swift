@@ -1,0 +1,18 @@
+//
+//  MainFeedView.swift
+//  noema
+//
+//  Created by Christian Vivadelli on 12/29/24.
+//
+
+import SwiftUI
+
+struct MainFeedView: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    MainFeedView()
+}
